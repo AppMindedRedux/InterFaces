@@ -4,7 +4,6 @@ package be.intecbrussel.ThemePark;
 import be.intecbrussel.Attractions.HauntedHouse;
 import be.intecbrussel.Attractions.RollerCoaster;
 import be.intecbrussel.Attractions.TeaCups;
-import be.intecbrussel.Shop.DrinkStand;
 import be.intecbrussel.Shop.IceCreamShop;
 import be.intecbrussel.Shop.PopCornStand;
 import be.intecbrussel.Shop.Saloon;
